@@ -29,19 +29,21 @@ Main tables used:
 
 ### Customer Behavior
 - Orders per customer analysis
+- Purchase frequency analysis
 
 ## Key Insights
 
-- Most customers made only **one purchase**.
-- Some product categories generate significantly higher revenue.
-- Certain categories have much higher average prices than others.
+-  Most customers made only one purchase, indicating low retention
+-  Card payments dominate (~74%), followed by bank transfers and vouchers
+-  Revenue shows steady growth with seasonal fluctuations
+-  A small number of product categories generate the majority of revenue
+-  Order cancellation rate is very low (<2%)
+  
+ <img width="1138" height="635" alt="image" src="https://github.com/user-attachments/assets/6bcdbb81-8b98-4eb9-8de2-bcbcd457c16e" />
+
 
 ## Tools Used
 
-- Python
-- Pandas
-- Matplotlib
+- Python (Pandas, Matplotlib)
+- Power BI
 - Jupyter Notebook
-
-## Author
-Data analysis project created as part of learning Data Analytics.
